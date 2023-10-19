@@ -21,6 +21,7 @@ connection.connect(function (err){
     }
 }
 );
+//Comment for learning github
 
 // const createTransport  = require("nodemailer");
 // var transport = createTransport.createTransport({
